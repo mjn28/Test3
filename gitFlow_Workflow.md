@@ -15,4 +15,4 @@ The gitFlow workflow is a lightweight, branch-based workflow that was developed 
 
 The gitFlow workflow offers a robust framework for managing large projects. It was created by Vincent Driessen.  It is well suited for collaboration among a large team of developers.
 
-![gitFlow Workflow](D:/IS 601/Mini Project 1/gitFlow.png)
+![gitFlow Workflow](https://medium.com/@rafavinnce/gitflow-branch-guide-8a523360c053)
