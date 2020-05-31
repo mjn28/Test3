@@ -3,7 +3,7 @@
 
 ### Index
 * **About Git**
-* **gitFlow Workflow** [link](gitFlow_Workflow.txt)
+* **gitFlow Workflow** [link](gitFlow_Workflow.md)
 * **Git Commands and Terminology**
 * **Sources**
 
