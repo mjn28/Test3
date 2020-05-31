@@ -2,9 +2,9 @@
 ## Monica Nelson and Kelly
 
 ### Index
-* **About Git
-* **gitFlow Workflow
-* **Git Commands and Terminology
-* **Sources
+* **About Git**
+* **gitFlow Workflow**
+* **Git Commands and Terminology**
+* **Sources**
 
 ### Changelog
