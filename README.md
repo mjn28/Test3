@@ -9,4 +9,4 @@
 
 ### Changelog
 
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+[![gitFlow Workflow](https://docs.craftercms.org/en/3.0/_images/releases-gitflow.png)](https://www.youtube.com/watch?v=47E-jcuQz5c&index=1&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4 "Video Tutorial")
